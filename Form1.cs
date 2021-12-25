@@ -37,6 +37,7 @@ namespace ServerConfig_Reservasi_097
             Host.Close();
             labelOnOrOff.Text = "Server OFF";
             labelKet.Text = "Klik ON untuk Menjalankan Server";
+
         }
     }
 }
